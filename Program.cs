@@ -23,7 +23,7 @@ namespace TestMSBuild
                 Console.WriteLine("Enter valid input in order to execute ");
             }
             int result = 0;
-            return result = val1 + val2;s
+            return result = val1 + val2;
 
         }
     }
